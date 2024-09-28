@@ -1,4 +1,4 @@
-*Blutap Automatic Blum Clicker*  
+***Blutap Automatic Blum Clicker***  
 
 `Name : **Blutap**`  
 `Latest Version : **2.5.2**`  
