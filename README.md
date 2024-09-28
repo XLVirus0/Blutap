@@ -15,4 +15,4 @@ Made by ***XL Virus*** with ❤️
 - **SOL** : ```8yEydG7oE1gqGMmRH3S6KsCGqvq2hKFfantHF4wVdNXP```
 
 
-**Download** [**Latest Version**](download.xlvirus.ir/Blutap2.5.2.exe)
+**Download** [**Latest Version**](https://www.download.xlvirus.ir/Blutap2.5.2.exe)
